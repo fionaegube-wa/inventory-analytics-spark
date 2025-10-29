@@ -1,7 +1,7 @@
 # Automated Sales & Inventory Analytics Pipeline
 
 ##  Overview
-This project demonstrates an **end-to-end PySpark ETL pipeline** developed for **Ashley Furniture** to automate sales and inventory data processing.
+This project demonstrates an **end-to-end PySpark ETL pipeline** to automate sales and inventory data processing.
 
 The pipeline ingests daily raw data from **Google Cloud Storage (GCS)**, performs data **cleansing**, **enrichment**, and **currency normalization**, and writes the processed output to **BigQuery** as a **partitioned and clustered fact table** to support BI and reporting use cases.
 

@@ -1,4 +1,4 @@
-# Automated Sales & Inventory Analytics Pipeline – Ashley Furniture
+# Automated Sales & Inventory Analytics Pipeline
 
 ##  Overview
 This project demonstrates an **end-to-end PySpark ETL pipeline** developed for **Ashley Furniture** to automate sales and inventory data processing.
